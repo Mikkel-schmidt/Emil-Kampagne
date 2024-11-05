@@ -5,6 +5,8 @@ import folium
 from streamlit_folium import st_folium
 from folium import Choropleth, FeatureGroup
 
+st.set_page_config(layout="wide")
+
 # Load GeoJSON data
 geojson_url = "https://wfs-kbhkort.kk.dk/k101/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=k101:afstemningsomraade&outputFormat=json&SRSNAME=EPSG:4326"
 gdf = gpd.read_file(geojson_url)
