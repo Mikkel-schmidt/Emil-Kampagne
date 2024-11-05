@@ -122,4 +122,4 @@ st.title('Copenhagen Election Results')
 
 # Display the map
 m = update_map(selected_candidate)
-st_folium(m, width=700, height=500)
+st_folium(m, width=1500, height=500)
