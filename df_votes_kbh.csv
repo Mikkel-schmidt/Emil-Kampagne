@@ -1,0 +1,848 @@
+Area,Name,Votes
+1. Østerbro,Mia Nyegaard,119
+1. Østerbro,Christopher Røhl,43
+1. Østerbro,Mette Annelie Rasmussen,176
+1. Østerbro,Jes Vissing Tiedemann,15
+1. Østerbro,Katrine Kildgaard,75
+1. Østerbro,Sally Khallash,20
+1. Østerbro,Jino Victoria Doabi,25
+1. Østerbro,Dan Kreutzfeldt,6
+1. Østerbro,Lartey Lawson,50
+1. Østerbro,Emil Moselund,104
+1. Østerbro,Kashif Ahmad,13
+1. Østerbro,Emil Sloth Andersen,39
+1. Østerbro,Kim Mandix,8
+1. Østerbro,Hanne Kofoed,6
+1. Østerbro,Martin Schepelern,23
+1. Nord,Navn,Personlige stemmer
+1. Nord,Mia Nyegaard,65
+1. Nord,Christopher Røhl,28
+1. Nord,Mette Annelie Rasmussen,61
+1. Nord,Jes Vissing Tiedemann,9
+1. Nord,Katrine Kildgaard,36
+1. Nord,Sally Khallash,12
+1. Nord,Jino Victoria Doabi,4
+1. Nord,Dan Kreutzfeldt,4
+1. Nord,Lartey Lawson,27
+1. Nord,Emil Moselund,39
+1. Nord,Kashif Ahmad,17
+1. Nord,Emil Sloth Andersen,18
+1. Nord,Kim Mandix,4
+1. Nord,Hanne Kofoed,3
+1. Nord,Martin Schepelern,9
+1. Syd,Navn,Personlige stemmer
+1. Syd,Mia Nyegaard,138
+1. Syd,Christopher Røhl,60
+1. Syd,Mette Annelie Rasmussen,170
+1. Syd,Jes Vissing Tiedemann,13
+1. Syd,Katrine Kildgaard,87
+1. Syd,Sally Khallash,29
+1. Syd,Jino Victoria Doabi,20
+1. Syd,Dan Kreutzfeldt,6
+1. Syd,Lartey Lawson,34
+1. Syd,Emil Moselund,107
+1. Syd,Kashif Ahmad,24
+1. Syd,Emil Sloth Andersen,50
+1. Syd,Kim Mandix,10
+1. Syd,Hanne Kofoed,15
+1. Syd,Martin Schepelern,30
+1. Vest,Navn,Personlige stemmer
+1. Vest,Mia Nyegaard,63
+1. Vest,Christopher Røhl,42
+1. Vest,Mette Annelie Rasmussen,66
+1. Vest,Jes Vissing Tiedemann,15
+1. Vest,Katrine Kildgaard,59
+1. Vest,Sally Khallash,17
+1. Vest,Jino Victoria Doabi,28
+1. Vest,Dan Kreutzfeldt,7
+1. Vest,Lartey Lawson,42
+1. Vest,Emil Moselund,91
+1. Vest,Kashif Ahmad,32
+1. Vest,Emil Sloth Andersen,35
+1. Vest,Kim Mandix,3
+1. Vest,Hanne Kofoed,12
+1. Vest,Martin Schepelern,21
+1. Nordvest,Navn,Personlige stemmer
+1. Nordvest,Mia Nyegaard,80
+1. Nordvest,Christopher Røhl,42
+1. Nordvest,Mette Annelie Rasmussen,103
+1. Nordvest,Jes Vissing Tiedemann,12
+1. Nordvest,Katrine Kildgaard,74
+1. Nordvest,Sally Khallash,24
+1. Nordvest,Jino Victoria Doabi,17
+1. Nordvest,Dan Kreutzfeldt,6
+1. Nordvest,Lartey Lawson,52
+1. Nordvest,Emil Moselund,67
+1. Nordvest,Kashif Ahmad,28
+1. Nordvest,Emil Sloth Andersen,26
+1. Nordvest,Kim Mandix,5
+1. Nordvest,Hanne Kofoed,10
+1. Nordvest,Martin Schepelern,17
+2. Sundbyvester,Navn,Personlige stemmer
+2. Sundbyvester,Mia Nyegaard,49
+2. Sundbyvester,Christopher Røhl,30
+2. Sundbyvester,Mette Annelie Rasmussen,30
+2. Sundbyvester,Jes Vissing Tiedemann,5
+2. Sundbyvester,Katrine Kildgaard,42
+2. Sundbyvester,Sally Khallash,10
+2. Sundbyvester,Jino Victoria Doabi,27
+2. Sundbyvester,Dan Kreutzfeldt,4
+2. Sundbyvester,Lartey Lawson,17
+2. Sundbyvester,Emil Moselund,40
+2. Sundbyvester,Kashif Ahmad,37
+2. Sundbyvester,Emil Sloth Andersen,34
+2. Sundbyvester,Kim Mandix,5
+2. Sundbyvester,Hanne Kofoed,3
+2. Sundbyvester,Martin Schepelern,20
+2. Nord,Navn,Personlige stemmer
+2. Nord,Mia Nyegaard,89
+2. Nord,Christopher Røhl,87
+2. Nord,Mette Annelie Rasmussen,76
+2. Nord,Jes Vissing Tiedemann,18
+2. Nord,Katrine Kildgaard,102
+2. Nord,Sally Khallash,15
+2. Nord,Jino Victoria Doabi,26
+2. Nord,Dan Kreutzfeldt,8
+2. Nord,Lartey Lawson,30
+2. Nord,Emil Moselund,132
+2. Nord,Kashif Ahmad,43
+2. Nord,Emil Sloth Andersen,51
+2. Nord,Kim Mandix,6
+2. Nord,Hanne Kofoed,9
+2. Nord,Martin Schepelern,13
+2. Syd,Navn,Personlige stemmer
+2. Syd,Mia Nyegaard,85
+2. Syd,Christopher Røhl,39
+2. Syd,Mette Annelie Rasmussen,103
+2. Syd,Jes Vissing Tiedemann,12
+2. Syd,Katrine Kildgaard,85
+2. Syd,Sally Khallash,24
+2. Syd,Jino Victoria Doabi,33
+2. Syd,Dan Kreutzfeldt,3
+2. Syd,Lartey Lawson,38
+2. Syd,Emil Moselund,101
+2. Syd,Kashif Ahmad,26
+2. Syd,Emil Sloth Andersen,40
+2. Syd,Kim Mandix,13
+2. Syd,Hanne Kofoed,3
+2. Syd,Martin Schepelern,20
+2. Vest,Navn,Personlige stemmer
+2. Vest,Mia Nyegaard,109
+2. Vest,Christopher Røhl,75
+2. Vest,Mette Annelie Rasmussen,96
+2. Vest,Jes Vissing Tiedemann,24
+2. Vest,Katrine Kildgaard,68
+2. Vest,Sally Khallash,18
+2. Vest,Jino Victoria Doabi,15
+2. Vest,Dan Kreutzfeldt,1
+2. Vest,Lartey Lawson,20
+2. Vest,Emil Moselund,90
+2. Vest,Kashif Ahmad,13
+2. Vest,Emil Sloth Andersen,46
+2. Vest,Kim Mandix,5
+2. Vest,Hanne Kofoed,16
+2. Vest,Martin Schepelern,22
+3. Indre By,Navn,Personlige stemmer
+3. Indre By,Mia Nyegaard,132
+3. Indre By,Christopher Røhl,80
+3. Indre By,Mette Annelie Rasmussen,113
+3. Indre By,Jes Vissing Tiedemann,24
+3. Indre By,Katrine Kildgaard,108
+3. Indre By,Sally Khallash,33
+3. Indre By,Jino Victoria Doabi,26
+3. Indre By,Dan Kreutzfeldt,9
+3. Indre By,Lartey Lawson,40
+3. Indre By,Emil Moselund,115
+3. Indre By,Kashif Ahmad,18
+3. Indre By,Emil Sloth Andersen,39
+3. Indre By,Kim Mandix,11
+3. Indre By,Hanne Kofoed,9
+3. Indre By,Martin Schepelern,32
+3. Nord,Navn,Personlige stemmer
+3. Nord,Mia Nyegaard,75
+3. Nord,Christopher Røhl,22
+3. Nord,Mette Annelie Rasmussen,84
+3. Nord,Jes Vissing Tiedemann,8
+3. Nord,Katrine Kildgaard,49
+3. Nord,Sally Khallash,20
+3. Nord,Jino Victoria Doabi,14
+3. Nord,Dan Kreutzfeldt,4
+3. Nord,Lartey Lawson,17
+3. Nord,Emil Moselund,85
+3. Nord,Kashif Ahmad,14
+3. Nord,Emil Sloth Andersen,18
+3. Nord,Kim Mandix,5
+3. Nord,Hanne Kofoed,11
+3. Nord,Martin Schepelern,15
+3. Syd,Navn,Personlige stemmer
+3. Syd,Mia Nyegaard,113
+3. Syd,Christopher Røhl,44
+3. Syd,Mette Annelie Rasmussen,64
+3. Syd,Jes Vissing Tiedemann,8
+3. Syd,Katrine Kildgaard,55
+3. Syd,Sally Khallash,11
+3. Syd,Jino Victoria Doabi,15
+3. Syd,Dan Kreutzfeldt,6
+3. Syd,Lartey Lawson,16
+3. Syd,Emil Moselund,54
+3. Syd,Kashif Ahmad,10
+3. Syd,Emil Sloth Andersen,38
+3. Syd,Kim Mandix,8
+3. Syd,Hanne Kofoed,5
+3. Syd,Martin Schepelern,16
+3. Øst,Navn,Personlige stemmer
+3. Øst,Mia Nyegaard,123
+3. Øst,Christopher Røhl,48
+3. Øst,Mette Annelie Rasmussen,89
+3. Øst,Jes Vissing Tiedemann,12
+3. Øst,Katrine Kildgaard,90
+3. Øst,Sally Khallash,29
+3. Øst,Jino Victoria Doabi,32
+3. Øst,Dan Kreutzfeldt,7
+3. Øst,Lartey Lawson,26
+3. Øst,Emil Moselund,95
+3. Øst,Kashif Ahmad,20
+3. Øst,Emil Sloth Andersen,33
+3. Øst,Kim Mandix,4
+3. Øst,Hanne Kofoed,11
+3. Øst,Martin Schepelern,33
+4. Sundbyøster,Navn,Personlige stemmer
+4. Sundbyøster,Mia Nyegaard,80
+4. Sundbyøster,Christopher Røhl,72
+4. Sundbyøster,Mette Annelie Rasmussen,59
+4. Sundbyøster,Jes Vissing Tiedemann,16
+4. Sundbyøster,Katrine Kildgaard,68
+4. Sundbyøster,Sally Khallash,16
+4. Sundbyøster,Jino Victoria Doabi,22
+4. Sundbyøster,Dan Kreutzfeldt,6
+4. Sundbyøster,Lartey Lawson,25
+4. Sundbyøster,Emil Moselund,77
+4. Sundbyøster,Kashif Ahmad,19
+4. Sundbyøster,Emil Sloth Andersen,42
+4. Sundbyøster,Kim Mandix,7
+4. Sundbyøster,Hanne Kofoed,4
+4. Sundbyøster,Martin Schepelern,12
+4. Nord,Navn,Personlige stemmer
+4. Nord,Mia Nyegaard,105
+4. Nord,Christopher Røhl,70
+4. Nord,Mette Annelie Rasmussen,57
+4. Nord,Jes Vissing Tiedemann,10
+4. Nord,Katrine Kildgaard,129
+4. Nord,Sally Khallash,18
+4. Nord,Jino Victoria Doabi,26
+4. Nord,Dan Kreutzfeldt,10
+4. Nord,Lartey Lawson,50
+4. Nord,Emil Moselund,113
+4. Nord,Kashif Ahmad,22
+4. Nord,Emil Sloth Andersen,49
+4. Nord,Kim Mandix,16
+4. Nord,Hanne Kofoed,3
+4. Nord,Martin Schepelern,22
+4. Syd,Navn,Personlige stemmer
+4. Syd,Mia Nyegaard,45
+4. Syd,Christopher Røhl,34
+4. Syd,Mette Annelie Rasmussen,35
+4. Syd,Jes Vissing Tiedemann,8
+4. Syd,Katrine Kildgaard,46
+4. Syd,Sally Khallash,12
+4. Syd,Jino Victoria Doabi,12
+4. Syd,Dan Kreutzfeldt,3
+4. Syd,Lartey Lawson,19
+4. Syd,Emil Moselund,43
+4. Syd,Kashif Ahmad,6
+4. Syd,Emil Sloth Andersen,24
+4. Syd,Kim Mandix,8
+4. Syd,Hanne Kofoed,7
+4. Syd,Martin Schepelern,18
+4. Øst,Navn,Personlige stemmer
+4. Øst,Mia Nyegaard,108
+4. Øst,Christopher Røhl,32
+4. Øst,Mette Annelie Rasmussen,65
+4. Øst,Jes Vissing Tiedemann,12
+4. Øst,Katrine Kildgaard,47
+4. Øst,Sally Khallash,10
+4. Øst,Jino Victoria Doabi,20
+4. Øst,Dan Kreutzfeldt,4
+4. Øst,Lartey Lawson,13
+4. Øst,Emil Moselund,51
+4. Øst,Kashif Ahmad,10
+4. Øst,Emil Sloth Andersen,32
+4. Øst,Kim Mandix,12
+4. Øst,Hanne Kofoed,7
+4. Øst,Martin Schepelern,13
+5. Nørrebro,Navn,Personlige stemmer
+5. Nørrebro,Mia Nyegaard,47
+5. Nørrebro,Christopher Røhl,37
+5. Nørrebro,Mette Annelie Rasmussen,28
+5. Nørrebro,Jes Vissing Tiedemann,14
+5. Nørrebro,Katrine Kildgaard,60
+5. Nørrebro,Sally Khallash,10
+5. Nørrebro,Jino Victoria Doabi,22
+5. Nørrebro,Dan Kreutzfeldt,8
+5. Nørrebro,Lartey Lawson,17
+5. Nørrebro,Emil Moselund,40
+5. Nørrebro,Kashif Ahmad,24
+5. Nørrebro,Emil Sloth Andersen,21
+5. Nørrebro,Kim Mandix,5
+5. Nørrebro,Hanne Kofoed,5
+5. Nørrebro,Martin Schepelern,9
+5. Nord,Navn,Personlige stemmer
+5. Nord,Mia Nyegaard,70
+5. Nord,Christopher Røhl,87
+5. Nord,Mette Annelie Rasmussen,60
+5. Nord,Jes Vissing Tiedemann,19
+5. Nord,Katrine Kildgaard,144
+5. Nord,Sally Khallash,24
+5. Nord,Jino Victoria Doabi,40
+5. Nord,Dan Kreutzfeldt,13
+5. Nord,Lartey Lawson,35
+5. Nord,Emil Moselund,130
+5. Nord,Kashif Ahmad,32
+5. Nord,Emil Sloth Andersen,43
+5. Nord,Kim Mandix,10
+5. Nord,Hanne Kofoed,10
+5. Nord,Martin Schepelern,23
+5. Syd,Navn,Personlige stemmer
+5. Syd,Mia Nyegaard,76
+5. Syd,Christopher Røhl,43
+5. Syd,Mette Annelie Rasmussen,54
+5. Syd,Jes Vissing Tiedemann,15
+5. Syd,Katrine Kildgaard,36
+5. Syd,Sally Khallash,10
+5. Syd,Jino Victoria Doabi,15
+5. Syd,Dan Kreutzfeldt,9
+5. Syd,Lartey Lawson,11
+5. Syd,Emil Moselund,46
+5. Syd,Kashif Ahmad,27
+5. Syd,Emil Sloth Andersen,13
+5. Syd,Kim Mandix,5
+5. Syd,Hanne Kofoed,5
+5. Syd,Martin Schepelern,9
+5. Øst,Navn,Personlige stemmer
+5. Øst,Mia Nyegaard,73
+5. Øst,Christopher Røhl,59
+5. Øst,Mette Annelie Rasmussen,63
+5. Øst,Jes Vissing Tiedemann,12
+5. Øst,Katrine Kildgaard,58
+5. Øst,Sally Khallash,14
+5. Øst,Jino Victoria Doabi,15
+5. Øst,Dan Kreutzfeldt,3
+5. Øst,Lartey Lawson,27
+5. Øst,Emil Moselund,71
+5. Øst,Kashif Ahmad,14
+5. Øst,Emil Sloth Andersen,26
+5. Øst,Kim Mandix,3
+5. Øst,Hanne Kofoed,4
+5. Øst,Martin Schepelern,22
+5. Vest,Navn,Personlige stemmer
+5. Vest,Mia Nyegaard,47
+5. Vest,Christopher Røhl,32
+5. Vest,Mette Annelie Rasmussen,62
+5. Vest,Jes Vissing Tiedemann,9
+5. Vest,Katrine Kildgaard,55
+5. Vest,Sally Khallash,5
+5. Vest,Jino Victoria Doabi,22
+5. Vest,Dan Kreutzfeldt,8
+5. Vest,Lartey Lawson,13
+5. Vest,Emil Moselund,45
+5. Vest,Kashif Ahmad,12
+5. Vest,Emil Sloth Andersen,32
+5. Vest,Kim Mandix,3
+5. Vest,Hanne Kofoed,6
+5. Vest,Martin Schepelern,13
+5. Nordvest,Navn,Personlige stemmer
+5. Nordvest,Mia Nyegaard,105
+5. Nordvest,Christopher Røhl,74
+5. Nordvest,Mette Annelie Rasmussen,76
+5. Nordvest,Jes Vissing Tiedemann,25
+5. Nordvest,Katrine Kildgaard,86
+5. Nordvest,Sally Khallash,19
+5. Nordvest,Jino Victoria Doabi,23
+5. Nordvest,Dan Kreutzfeldt,10
+5. Nordvest,Lartey Lawson,37
+5. Nordvest,Emil Moselund,87
+5. Nordvest,Kashif Ahmad,21
+5. Nordvest,Emil Sloth Andersen,58
+5. Nordvest,Kim Mandix,8
+5. Nordvest,Hanne Kofoed,12
+5. Nordvest,Martin Schepelern,17
+6. Bispebjerg,Navn,Personlige stemmer
+6. Bispebjerg,Mia Nyegaard,38
+6. Bispebjerg,Christopher Røhl,43
+6. Bispebjerg,Mette Annelie Rasmussen,56
+6. Bispebjerg,Jes Vissing Tiedemann,7
+6. Bispebjerg,Katrine Kildgaard,86
+6. Bispebjerg,Sally Khallash,14
+6. Bispebjerg,Jino Victoria Doabi,42
+6. Bispebjerg,Dan Kreutzfeldt,82
+6. Bispebjerg,Lartey Lawson,25
+6. Bispebjerg,Emil Moselund,61
+6. Bispebjerg,Kashif Ahmad,43
+6. Bispebjerg,Emil Sloth Andersen,31
+6. Bispebjerg,Kim Mandix,7
+6. Bispebjerg,Hanne Kofoed,3
+6. Bispebjerg,Martin Schepelern,21
+6. Nord,Navn,Personlige stemmer
+6. Nord,Mia Nyegaard,45
+6. Nord,Christopher Røhl,23
+6. Nord,Mette Annelie Rasmussen,33
+6. Nord,Jes Vissing Tiedemann,5
+6. Nord,Katrine Kildgaard,34
+6. Nord,Sally Khallash,8
+6. Nord,Jino Victoria Doabi,11
+6. Nord,Dan Kreutzfeldt,12
+6. Nord,Lartey Lawson,20
+6. Nord,Emil Moselund,27
+6. Nord,Kashif Ahmad,23
+6. Nord,Emil Sloth Andersen,29
+6. Nord,Kim Mandix,4
+6. Nord,Hanne Kofoed,2
+6. Nord,Martin Schepelern,2
+6. Øst,Navn,Personlige stemmer
+6. Øst,Mia Nyegaard,17
+6. Øst,Christopher Røhl,7
+6. Øst,Mette Annelie Rasmussen,17
+6. Øst,Jes Vissing Tiedemann,2
+6. Øst,Katrine Kildgaard,22
+6. Øst,Sally Khallash,5
+6. Øst,Jino Victoria Doabi,14
+6. Øst,Dan Kreutzfeldt,8
+6. Øst,Lartey Lawson,9
+6. Øst,Emil Moselund,21
+6. Øst,Kashif Ahmad,11
+6. Øst,Emil Sloth Andersen,4
+6. Øst,Kim Mandix,4
+6. Øst,Hanne Kofoed,1
+6. Øst,Martin Schepelern,11
+6. Syd,Navn,Personlige stemmer
+6. Syd,Mia Nyegaard,49
+6. Syd,Christopher Røhl,55
+6. Syd,Mette Annelie Rasmussen,36
+6. Syd,Jes Vissing Tiedemann,18
+6. Syd,Katrine Kildgaard,67
+6. Syd,Sally Khallash,15
+6. Syd,Jino Victoria Doabi,27
+6. Syd,Dan Kreutzfeldt,79
+6. Syd,Lartey Lawson,25
+6. Syd,Emil Moselund,70
+6. Syd,Kashif Ahmad,26
+6. Syd,Emil Sloth Andersen,34
+6. Syd,Kim Mandix,7
+6. Syd,Hanne Kofoed,7
+6. Syd,Martin Schepelern,13
+7. Brønshøj,Navn,Personlige stemmer
+7. Brønshøj,Mia Nyegaard,37
+7. Brønshøj,Christopher Røhl,15
+7. Brønshøj,Mette Annelie Rasmussen,21
+7. Brønshøj,Jes Vissing Tiedemann,3
+7. Brønshøj,Katrine Kildgaard,10
+7. Brønshøj,Sally Khallash,5
+7. Brønshøj,Jino Victoria Doabi,6
+7. Brønshøj,Dan Kreutzfeldt,3
+7. Brønshøj,Lartey Lawson,2
+7. Brønshøj,Emil Moselund,15
+7. Brønshøj,Kashif Ahmad,4
+7. Brønshøj,Emil Sloth Andersen,15
+7. Brønshøj,Kim Mandix,1
+7. Brønshøj,Hanne Kofoed,7
+7. Brønshøj,Martin Schepelern,8
+7. Nord,Navn,Personlige stemmer
+7. Nord,Mia Nyegaard,3
+7. Nord,Christopher Røhl,2
+7. Nord,Mette Annelie Rasmussen,2
+7. Nord,Jes Vissing Tiedemann,2
+7. Nord,Katrine Kildgaard,5
+7. Nord,Sally Khallash,1
+7. Nord,Jino Victoria Doabi,15
+7. Nord,Dan Kreutzfeldt,2
+7. Nord,Lartey Lawson,9
+7. Nord,Emil Moselund,5
+7. Nord,Kashif Ahmad,75
+7. Nord,Emil Sloth Andersen,4
+7. Nord,Kim Mandix,1
+7. Nord,Hanne Kofoed,2
+7. Nord,Martin Schepelern,2
+7. Rødkilde,Navn,Personlige stemmer
+7. Rødkilde,Mia Nyegaard,58
+7. Rødkilde,Christopher Røhl,34
+7. Rødkilde,Mette Annelie Rasmussen,41
+7. Rødkilde,Jes Vissing Tiedemann,9
+7. Rødkilde,Katrine Kildgaard,37
+7. Rødkilde,Sally Khallash,8
+7. Rødkilde,Jino Victoria Doabi,16
+7. Rødkilde,Dan Kreutzfeldt,6
+7. Rødkilde,Lartey Lawson,17
+7. Rødkilde,Emil Moselund,40
+7. Rødkilde,Kashif Ahmad,14
+7. Rødkilde,Emil Sloth Andersen,31
+7. Rødkilde,Kim Mandix,1
+7. Rødkilde,Hanne Kofoed,8
+7. Rødkilde,Martin Schepelern,8
+7. Øst,Navn,Personlige stemmer
+7. Øst,Mia Nyegaard,63
+7. Øst,Christopher Røhl,21
+7. Øst,Mette Annelie Rasmussen,32
+7. Øst,Jes Vissing Tiedemann,14
+7. Øst,Katrine Kildgaard,37
+7. Øst,Sally Khallash,11
+7. Øst,Jino Victoria Doabi,14
+7. Øst,Dan Kreutzfeldt,8
+7. Øst,Lartey Lawson,12
+7. Øst,Emil Moselund,35
+7. Øst,Kashif Ahmad,20
+7. Øst,Emil Sloth Andersen,26
+7. Øst,Kim Mandix,4
+7. Øst,Hanne Kofoed,4
+7. Øst,Martin Schepelern,16
+7. Vest,Navn,Personlige stemmer
+7. Vest,Mia Nyegaard,28
+7. Vest,Christopher Røhl,13
+7. Vest,Mette Annelie Rasmussen,13
+7. Vest,Jes Vissing Tiedemann,6
+7. Vest,Katrine Kildgaard,26
+7. Vest,Sally Khallash,11
+7. Vest,Jino Victoria Doabi,11
+7. Vest,Dan Kreutzfeldt,3
+7. Vest,Lartey Lawson,9
+7. Vest,Emil Moselund,19
+7. Vest,Kashif Ahmad,28
+7. Vest,Emil Sloth Andersen,10
+7. Vest,Kim Mandix,5
+7. Vest,Hanne Kofoed,2
+7. Vest,Martin Schepelern,14
+7. Nordvest,Navn,Personlige stemmer
+7. Nordvest,Mia Nyegaard,51
+7. Nordvest,Christopher Røhl,21
+7. Nordvest,Mette Annelie Rasmussen,23
+7. Nordvest,Jes Vissing Tiedemann,5
+7. Nordvest,Katrine Kildgaard,31
+7. Nordvest,Sally Khallash,9
+7. Nordvest,Jino Victoria Doabi,9
+7. Nordvest,Dan Kreutzfeldt,2
+7. Nordvest,Lartey Lawson,12
+7. Nordvest,Emil Moselund,22
+7. Nordvest,Kashif Ahmad,32
+7. Nordvest,Emil Sloth Andersen,21
+7. Nordvest,Kim Mandix,2
+7. Nordvest,Hanne Kofoed,6
+7. Nordvest,Martin Schepelern,6
+7. Katrinedal,Navn,Personlige stemmer
+7. Katrinedal,Mia Nyegaard,33
+7. Katrinedal,Christopher Røhl,19
+7. Katrinedal,Mette Annelie Rasmussen,22
+7. Katrinedal,Jes Vissing Tiedemann,5
+7. Katrinedal,Katrine Kildgaard,31
+7. Katrinedal,Sally Khallash,5
+7. Katrinedal,Jino Victoria Doabi,12
+7. Katrinedal,Dan Kreutzfeldt,3
+7. Katrinedal,Lartey Lawson,10
+7. Katrinedal,Emil Moselund,17
+7. Katrinedal,Kashif Ahmad,18
+7. Katrinedal,Emil Sloth Andersen,45
+7. Katrinedal,Kim Mandix,5
+7. Katrinedal,Hanne Kofoed,2
+7. Katrinedal,Martin Schepelern,11
+7. Kirkebjerg,Navn,Personlige stemmer
+7. Kirkebjerg,Mia Nyegaard,50
+7. Kirkebjerg,Christopher Røhl,21
+7. Kirkebjerg,Mette Annelie Rasmussen,23
+7. Kirkebjerg,Jes Vissing Tiedemann,7
+7. Kirkebjerg,Katrine Kildgaard,27
+7. Kirkebjerg,Sally Khallash,10
+7. Kirkebjerg,Jino Victoria Doabi,4
+7. Kirkebjerg,Dan Kreutzfeldt,2
+7. Kirkebjerg,Lartey Lawson,11
+7. Kirkebjerg,Emil Moselund,24
+7. Kirkebjerg,Kashif Ahmad,5
+7. Kirkebjerg,Emil Sloth Andersen,64
+7. Kirkebjerg,Kim Mandix,2
+7. Kirkebjerg,Hanne Kofoed,8
+7. Kirkebjerg,Martin Schepelern,13
+7. Vanløse,Navn,Personlige stemmer
+7. Vanløse,Mia Nyegaard,59
+7. Vanløse,Christopher Røhl,38
+7. Vanløse,Mette Annelie Rasmussen,34
+7. Vanløse,Jes Vissing Tiedemann,10
+7. Vanløse,Katrine Kildgaard,56
+7. Vanløse,Sally Khallash,11
+7. Vanløse,Jino Victoria Doabi,26
+7. Vanløse,Dan Kreutzfeldt,4
+7. Vanløse,Lartey Lawson,21
+7. Vanløse,Emil Moselund,40
+7. Vanløse,Kashif Ahmad,29
+7. Vanløse,Emil Sloth Andersen,145
+7. Vanløse,Kim Mandix,4
+7. Vanløse,Hanne Kofoed,6
+7. Vanløse,Martin Schepelern,11
+8. Valby,Navn,Personlige stemmer
+8. Valby,Mia Nyegaard,55
+8. Valby,Christopher Røhl,29
+8. Valby,Mette Annelie Rasmussen,68
+8. Valby,Jes Vissing Tiedemann,17
+8. Valby,Katrine Kildgaard,33
+8. Valby,Sally Khallash,11
+8. Valby,Jino Victoria Doabi,18
+8. Valby,Dan Kreutzfeldt,8
+8. Valby,Lartey Lawson,22
+8. Valby,Emil Moselund,35
+8. Valby,Kashif Ahmad,31
+8. Valby,Emil Sloth Andersen,20
+8. Valby,Kim Mandix,2
+8. Valby,Hanne Kofoed,30
+8. Valby,Martin Schepelern,18
+8. Nord,Navn,Personlige stemmer
+8. Nord,Mia Nyegaard,63
+8. Nord,Christopher Røhl,48
+8. Nord,Mette Annelie Rasmussen,66
+8. Nord,Jes Vissing Tiedemann,15
+8. Nord,Katrine Kildgaard,51
+8. Nord,Sally Khallash,18
+8. Nord,Jino Victoria Doabi,13
+8. Nord,Dan Kreutzfeldt,3
+8. Nord,Lartey Lawson,19
+8. Nord,Emil Moselund,63
+8. Nord,Kashif Ahmad,12
+8. Nord,Emil Sloth Andersen,32
+8. Nord,Kim Mandix,5
+8. Nord,Hanne Kofoed,37
+8. Nord,Martin Schepelern,18
+8. Syd,Navn,Personlige stemmer
+8. Syd,Mia Nyegaard,45
+8. Syd,Christopher Røhl,32
+8. Syd,Mette Annelie Rasmussen,29
+8. Syd,Jes Vissing Tiedemann,13
+8. Syd,Katrine Kildgaard,34
+8. Syd,Sally Khallash,9
+8. Syd,Jino Victoria Doabi,11
+8. Syd,Dan Kreutzfeldt,1
+8. Syd,Lartey Lawson,23
+8. Syd,Emil Moselund,43
+8. Syd,Kashif Ahmad,88
+8. Syd,Emil Sloth Andersen,25
+8. Syd,Kim Mandix,6
+8. Syd,Hanne Kofoed,21
+8. Syd,Martin Schepelern,9
+8. Vest,Navn,Personlige stemmer
+8. Vest,Mia Nyegaard,16
+8. Vest,Christopher Røhl,9
+8. Vest,Mette Annelie Rasmussen,19
+8. Vest,Jes Vissing Tiedemann,6
+8. Vest,Katrine Kildgaard,22
+8. Vest,Sally Khallash,5
+8. Vest,Jino Victoria Doabi,10
+8. Vest,Dan Kreutzfeldt,0
+8. Vest,Lartey Lawson,5
+8. Vest,Emil Moselund,12
+8. Vest,Kashif Ahmad,36
+8. Vest,Emil Sloth Andersen,11
+8. Vest,Kim Mandix,0
+8. Vest,Hanne Kofoed,12
+8. Vest,Martin Schepelern,6
+8. Sydøst,Navn,Personlige stemmer
+8. Sydøst,Mia Nyegaard,21
+8. Sydøst,Christopher Røhl,19
+8. Sydøst,Mette Annelie Rasmussen,18
+8. Sydøst,Jes Vissing Tiedemann,10
+8. Sydøst,Katrine Kildgaard,24
+8. Sydøst,Sally Khallash,8
+8. Sydøst,Jino Victoria Doabi,6
+8. Sydøst,Dan Kreutzfeldt,4
+8. Sydøst,Lartey Lawson,9
+8. Sydøst,Emil Moselund,30
+8. Sydøst,Kashif Ahmad,26
+8. Sydøst,Emil Sloth Andersen,20
+8. Sydøst,Kim Mandix,4
+8. Sydøst,Hanne Kofoed,13
+8. Sydøst,Martin Schepelern,5
+8. Midt,Navn,Personlige stemmer
+8. Midt,Mia Nyegaard,57
+8. Midt,Christopher Røhl,27
+8. Midt,Mette Annelie Rasmussen,36
+8. Midt,Jes Vissing Tiedemann,10
+8. Midt,Katrine Kildgaard,52
+8. Midt,Sally Khallash,8
+8. Midt,Jino Victoria Doabi,15
+8. Midt,Dan Kreutzfeldt,3
+8. Midt,Lartey Lawson,27
+8. Midt,Emil Moselund,59
+8. Midt,Kashif Ahmad,17
+8. Midt,Emil Sloth Andersen,36
+8. Midt,Kim Mandix,4
+8. Midt,Hanne Kofoed,14
+8. Midt,Martin Schepelern,19
+9. Vesterbro,Navn,Personlige stemmer
+9. Vesterbro,Mia Nyegaard,63
+9. Vesterbro,Christopher Røhl,33
+9. Vesterbro,Mette Annelie Rasmussen,59
+9. Vesterbro,Jes Vissing Tiedemann,14
+9. Vesterbro,Katrine Kildgaard,67
+9. Vesterbro,Sally Khallash,23
+9. Vesterbro,Jino Victoria Doabi,13
+9. Vesterbro,Dan Kreutzfeldt,7
+9. Vesterbro,Lartey Lawson,17
+9. Vesterbro,Emil Moselund,41
+9. Vesterbro,Kashif Ahmad,10
+9. Vesterbro,Emil Sloth Andersen,35
+9. Vesterbro,Kim Mandix,3
+9. Vesterbro,Hanne Kofoed,10
+9. Vesterbro,Martin Schepelern,18
+9. Nord,Navn,Personlige stemmer
+9. Nord,Mia Nyegaard,105
+9. Nord,Christopher Røhl,44
+9. Nord,Mette Annelie Rasmussen,51
+9. Nord,Jes Vissing Tiedemann,47
+9. Nord,Katrine Kildgaard,82
+9. Nord,Sally Khallash,19
+9. Nord,Jino Victoria Doabi,18
+9. Nord,Dan Kreutzfeldt,5
+9. Nord,Lartey Lawson,17
+9. Nord,Emil Moselund,75
+9. Nord,Kashif Ahmad,21
+9. Nord,Emil Sloth Andersen,36
+9. Nord,Kim Mandix,8
+9. Nord,Hanne Kofoed,11
+9. Nord,Martin Schepelern,13
+9. Syd,Navn,Personlige stemmer
+9. Syd,Mia Nyegaard,40
+9. Syd,Christopher Røhl,10
+9. Syd,Mette Annelie Rasmussen,22
+9. Syd,Jes Vissing Tiedemann,4
+9. Syd,Katrine Kildgaard,29
+9. Syd,Sally Khallash,8
+9. Syd,Jino Victoria Doabi,8
+9. Syd,Dan Kreutzfeldt,0
+9. Syd,Lartey Lawson,17
+9. Syd,Emil Moselund,26
+9. Syd,Kashif Ahmad,44
+9. Syd,Emil Sloth Andersen,16
+9. Syd,Kim Mandix,1
+9. Syd,Hanne Kofoed,4
+9. Syd,Martin Schepelern,8
+9. Øst,Navn,Personlige stemmer
+9. Øst,Mia Nyegaard,70
+9. Øst,Christopher Røhl,38
+9. Øst,Mette Annelie Rasmussen,49
+9. Øst,Jes Vissing Tiedemann,17
+9. Øst,Katrine Kildgaard,57
+9. Øst,Sally Khallash,11
+9. Øst,Jino Victoria Doabi,18
+9. Øst,Dan Kreutzfeldt,7
+9. Øst,Lartey Lawson,18
+9. Øst,Emil Moselund,53
+9. Øst,Kashif Ahmad,13
+9. Øst,Emil Sloth Andersen,21
+9. Øst,Kim Mandix,4
+9. Øst,Hanne Kofoed,8
+9. Øst,Martin Schepelern,11
+9. Vest,Navn,Personlige stemmer
+9. Vest,Mia Nyegaard,86
+9. Vest,Christopher Røhl,41
+9. Vest,Mette Annelie Rasmussen,77
+9. Vest,Jes Vissing Tiedemann,28
+9. Vest,Katrine Kildgaard,55
+9. Vest,Sally Khallash,23
+9. Vest,Jino Victoria Doabi,16
+9. Vest,Dan Kreutzfeldt,2
+9. Vest,Lartey Lawson,17
+9. Vest,Emil Moselund,38
+9. Vest,Kashif Ahmad,25
+9. Vest,Emil Sloth Andersen,30
+9. Vest,Kim Mandix,4
+9. Vest,Hanne Kofoed,6
+9. Vest,Martin Schepelern,14
+9. Midt,Navn,Personlige stemmer
+9. Midt,Mia Nyegaard,16
+9. Midt,Christopher Røhl,14
+9. Midt,Mette Annelie Rasmussen,17
+9. Midt,Jes Vissing Tiedemann,8
+9. Midt,Katrine Kildgaard,22
+9. Midt,Sally Khallash,3
+9. Midt,Jino Victoria Doabi,6
+9. Midt,Dan Kreutzfeldt,2
+9. Midt,Lartey Lawson,9
+9. Midt,Emil Moselund,21
+9. Midt,Kashif Ahmad,10
+9. Midt,Emil Sloth Andersen,17
+9. Midt,Kim Mandix,4
+9. Midt,Hanne Kofoed,3
+9. Midt,Martin Schepelern,3
+9. Sydhavn,Navn,Personlige stemmer
+9. Sydhavn,Mia Nyegaard,136
+9. Sydhavn,Christopher Røhl,69
+9. Sydhavn,Mette Annelie Rasmussen,95
+9. Sydhavn,Jes Vissing Tiedemann,31
+9. Sydhavn,Katrine Kildgaard,90
+9. Sydhavn,Sally Khallash,30
+9. Sydhavn,Jino Victoria Doabi,31
+9. Sydhavn,Dan Kreutzfeldt,6
+9. Sydhavn,Lartey Lawson,29
+9. Sydhavn,Emil Moselund,180
+9. Sydhavn,Kashif Ahmad,24
+9. Sydhavn,Emil Sloth Andersen,67
+9. Sydhavn,Kim Mandix,11
+9. Sydhavn,Hanne Kofoed,11
+9. Sydhavn,Martin Schepelern,23
+1. Øst,Navn,Personlige stemmer
+1. Øst,Mia Nyegaard,79
+1. Øst,Christopher Røhl,30
+1. Øst,Mette Annelie Rasmussen,107
+1. Øst,Jes Vissing Tiedemann,11
+1. Øst,Katrine Kildgaard,44
+1. Øst,Sally Khallash,11
+1. Øst,Jino Victoria Doabi,15
+1. Øst,Dan Kreutzfeldt,6
+1. Øst,Lartey Lawson,29
+1. Øst,Emil Moselund,75
+1. Øst,Kashif Ahmad,11
+1. Øst,Emil Sloth Andersen,36
+1. Øst,Kim Mandix,6
+1. Øst,Hanne Kofoed,0
+1. Øst,Martin Schepelern,10
+2. Øst,Navn,Personlige stemmer
+2. Øst,Mia Nyegaard,54
+2. Øst,Christopher Røhl,37
+2. Øst,Mette Annelie Rasmussen,30
+2. Øst,Jes Vissing Tiedemann,8
+2. Øst,Katrine Kildgaard,86
+2. Øst,Sally Khallash,12
+2. Øst,Jino Victoria Doabi,15
+2. Øst,Dan Kreutzfeldt,7
+2. Øst,Lartey Lawson,19
+2. Øst,Emil Moselund,61
+2. Øst,Kashif Ahmad,30
+2. Øst,Emil Sloth Andersen,36
+2. Øst,Kim Mandix,4
+2. Øst,Hanne Kofoed,5
+2. Øst,Martin Schepelern,16
+5. Nørrebrohallen,Navn,Personlige stemmer
+5. Nørrebrohallen,Mia Nyegaard,66
+5. Nørrebrohallen,Christopher Røhl,65
+5. Nørrebrohallen,Mette Annelie Rasmussen,41
+5. Nørrebrohallen,Jes Vissing Tiedemann,18
+5. Nørrebrohallen,Katrine Kildgaard,92
+5. Nørrebrohallen,Sally Khallash,19
+5. Nørrebrohallen,Jino Victoria Doabi,31
+5. Nørrebrohallen,Dan Kreutzfeldt,8
+5. Nørrebrohallen,Lartey Lawson,37
+5. Nørrebrohallen,Emil Moselund,88
+5. Nørrebrohallen,Kashif Ahmad,51
+5. Nørrebrohallen,Emil Sloth Andersen,49
+5. Nørrebrohallen,Kim Mandix,3
+5. Nørrebrohallen,Hanne Kofoed,4
+5. Nørrebrohallen,Martin Schepelern,19
+6. Vest,Navn,Personlige stemmer
+6. Vest,Mia Nyegaard,19
+6. Vest,Christopher Røhl,18
+6. Vest,Mette Annelie Rasmussen,17
+6. Vest,Jes Vissing Tiedemann,3
+6. Vest,Katrine Kildgaard,28
+6. Vest,Sally Khallash,5
+6. Vest,Jino Victoria Doabi,14
+6. Vest,Dan Kreutzfeldt,34
+6. Vest,Lartey Lawson,11
+6. Vest,Emil Moselund,17
+6. Vest,Kashif Ahmad,36
+6. Vest,Emil Sloth Andersen,23
+6. Vest,Kim Mandix,0
+6. Vest,Hanne Kofoed,1
+6. Vest,Martin Schepelern,6

@@ -1,0 +1,912 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_43861fe27b6b2a13e278b2c7dda87c99 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_43861fe27b6b2a13e278b2c7dda87c99" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_43861fe27b6b2a13e278b2c7dda87c99 = L.map(
+                "map_43861fe27b6b2a13e278b2c7dda87c99",
+                {
+                    center: [55.6761, 12.5683],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 12,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_92fc64097614f63e4bce476b5716ac4b = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors", "detectRetina": false, "maxNativeZoom": 19, "maxZoom": 19, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            tile_layer_92fc64097614f63e4bce476b5716ac4b.addTo(map_43861fe27b6b2a13e278b2c7dda87c99);
+        
+    
+            var marker_2d3b661e3edd0c435dd7c842b15db50f = L.marker(
+                [55.722872, 12.527621],
+                {}
+            ).addTo(map_43861fe27b6b2a13e278b2c7dda87c99);
+        
+    
+        var popup_9f1084926f1bbf722f93d5183f016861 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_f8279514efc6008f4ee5f8e313f73c85 = $(`<div id="html_f8279514efc6008f4ee5f8e313f73c85" style="width: 100.0%; height: 100.0%;">Grønnemose Allé 7, 2400 København NV</div>`)[0];
+                popup_9f1084926f1bbf722f93d5183f016861.setContent(html_f8279514efc6008f4ee5f8e313f73c85);
+            
+        
+
+        marker_2d3b661e3edd0c435dd7c842b15db50f.bindPopup(popup_9f1084926f1bbf722f93d5183f016861)
+        ;
+
+        
+    
+    
+            var marker_6e39e1e52f8a72675bd904d29748584c = L.marker(
+                [55.696461, 12.544971],
+                {}
+            ).addTo(map_43861fe27b6b2a13e278b2c7dda87c99);
+        
+    
+        var popup_ac1d9d2bb0f4842bd2274f83e6041c63 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_419e73eab5396a298a0bfb1d2dd5c8cf = $(`<div id="html_419e73eab5396a298a0bfb1d2dd5c8cf" style="width: 100.0%; height: 100.0%;">Stefansgade 1, 2200 København N</div>`)[0];
+                popup_ac1d9d2bb0f4842bd2274f83e6041c63.setContent(html_419e73eab5396a298a0bfb1d2dd5c8cf);
+            
+        
+
+        marker_6e39e1e52f8a72675bd904d29748584c.bindPopup(popup_ac1d9d2bb0f4842bd2274f83e6041c63)
+        ;
+
+        
+    
+    
+            var marker_451154e7054ac464f071dc8bdc1df69a = L.marker(
+                [55.690876, 12.559524],
+                {}
+            ).addTo(map_43861fe27b6b2a13e278b2c7dda87c99);
+        
+    
+        var popup_d92ecf06111e9521e73a715993c46ad5 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_5ec66689c32fc401b9ddbef9614f12b6 = $(`<div id="html_5ec66689c32fc401b9ddbef9614f12b6" style="width: 100.0%; height: 100.0%;">Guldbergsgade 5, 2200 København N</div>`)[0];
+                popup_d92ecf06111e9521e73a715993c46ad5.setContent(html_5ec66689c32fc401b9ddbef9614f12b6);
+            
+        
+
+        marker_451154e7054ac464f071dc8bdc1df69a.bindPopup(popup_d92ecf06111e9521e73a715993c46ad5)
+        ;
+
+        
+    
+    
+            var marker_8b5475dd719666c6a1c89b8d67be8228 = L.marker(
+                [55.724365, 12.526209],
+                {}
+            ).addTo(map_43861fe27b6b2a13e278b2c7dda87c99);
+        
+    
+        var popup_8364d46e78ae061d63984412845b8dcd = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_3bd151222fdd286ed1db69e2247dea6b = $(`<div id="html_3bd151222fdd286ed1db69e2247dea6b" style="width: 100.0%; height: 100.0%;">Dalmosevej 11, 2400 København NV</div>`)[0];
+                popup_8364d46e78ae061d63984412845b8dcd.setContent(html_3bd151222fdd286ed1db69e2247dea6b);
+            
+        
+
+        marker_8b5475dd719666c6a1c89b8d67be8228.bindPopup(popup_8364d46e78ae061d63984412845b8dcd)
+        ;
+
+        
+    
+    
+            var marker_f8aa467610e01d6e12016990d267a5d1 = L.marker(
+                [55.712697, 12.53612],
+                {}
+            ).addTo(map_43861fe27b6b2a13e278b2c7dda87c99);
+        
+    
+        var popup_5b8429b1cb26e3a448950b9b1a9dc8ea = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_0e77bd3ffeb7b700e0199a605a433ba0 = $(`<div id="html_0e77bd3ffeb7b700e0199a605a433ba0" style="width: 100.0%; height: 100.0%;">Tagensvej 198 A, 2400 København NV</div>`)[0];
+                popup_5b8429b1cb26e3a448950b9b1a9dc8ea.setContent(html_0e77bd3ffeb7b700e0199a605a433ba0);
+            
+        
+
+        marker_f8aa467610e01d6e12016990d267a5d1.bindPopup(popup_5b8429b1cb26e3a448950b9b1a9dc8ea)
+        ;
+
+        
+    
+    
+            var marker_a986a632f3d4509827a7e36ab2549359 = L.marker(
+                [55.721415, 12.525799],
+                {}
+            ).addTo(map_43861fe27b6b2a13e278b2c7dda87c99);
+        
+    
+        var popup_5accef7eb82616847e8bc089c6280418 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_6720b8521f430ae0f54a5f420e049e6e = $(`<div id="html_6720b8521f430ae0f54a5f420e049e6e" style="width: 100.0%; height: 100.0%;">Engblommevej 47, 2400 København NV</div>`)[0];
+                popup_5accef7eb82616847e8bc089c6280418.setContent(html_6720b8521f430ae0f54a5f420e049e6e);
+            
+        
+
+        marker_a986a632f3d4509827a7e36ab2549359.bindPopup(popup_5accef7eb82616847e8bc089c6280418)
+        ;
+
+        
+    
+    
+            var marker_8a73321481f8720e9bbe9d391392ca6b = L.marker(
+                [55.698484, 12.534855],
+                {}
+            ).addTo(map_43861fe27b6b2a13e278b2c7dda87c99);
+        
+    
+        var popup_3a6bd6ff8784b0bc7ec80216d3ba7e06 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_cb9d3db983e2826d764d1d6c79e3dde3 = $(`<div id="html_cb9d3db983e2826d764d1d6c79e3dde3" style="width: 100.0%; height: 100.0%;">Falkevej 7, 2400 København NV</div>`)[0];
+                popup_3a6bd6ff8784b0bc7ec80216d3ba7e06.setContent(html_cb9d3db983e2826d764d1d6c79e3dde3);
+            
+        
+
+        marker_8a73321481f8720e9bbe9d391392ca6b.bindPopup(popup_3a6bd6ff8784b0bc7ec80216d3ba7e06)
+        ;
+
+        
+    
+    
+            var marker_53b48fcdd659015ba11b5af1899ce893 = L.marker(
+                [55.724497, 12.533245],
+                {}
+            ).addTo(map_43861fe27b6b2a13e278b2c7dda87c99);
+        
+    
+        var popup_ae50f33f3de7f70e151061a7d0e653b3 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_7da0bdaa025cf5ed94fb8ab870fddf76 = $(`<div id="html_7da0bdaa025cf5ed94fb8ab870fddf76" style="width: 100.0%; height: 100.0%;">Emdrupgårdsvej 19, 2400 København NV</div>`)[0];
+                popup_ae50f33f3de7f70e151061a7d0e653b3.setContent(html_7da0bdaa025cf5ed94fb8ab870fddf76);
+            
+        
+
+        marker_53b48fcdd659015ba11b5af1899ce893.bindPopup(popup_ae50f33f3de7f70e151061a7d0e653b3)
+        ;
+
+        
+    
+    
+            var marker_cebaead84756929223030d51da584aab = L.marker(
+                [55.72476, 12.526426],
+                {}
+            ).addTo(map_43861fe27b6b2a13e278b2c7dda87c99);
+        
+    
+        var popup_b9a81e2bc293dda73d550dc425c27d8c = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_62d612870695fd117666b80dce560011 = $(`<div id="html_62d612870695fd117666b80dce560011" style="width: 100.0%; height: 100.0%;">Dalmosevej 6, 2400 København NV</div>`)[0];
+                popup_b9a81e2bc293dda73d550dc425c27d8c.setContent(html_62d612870695fd117666b80dce560011);
+            
+        
+
+        marker_cebaead84756929223030d51da584aab.bindPopup(popup_b9a81e2bc293dda73d550dc425c27d8c)
+        ;
+
+        
+    
+    
+            var marker_20c3cc2c38e7f334bf34de188465c2a9 = L.marker(
+                [55.726298, 12.531235],
+                {}
+            ).addTo(map_43861fe27b6b2a13e278b2c7dda87c99);
+        
+    
+        var popup_f69139ed4f097cc4adde60029fb7af14 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_534e55ba788f7597197caae9db499fc3 = $(`<div id="html_534e55ba788f7597197caae9db499fc3" style="width: 100.0%; height: 100.0%;">Stenkløvervej 9, 2400 København NV</div>`)[0];
+                popup_f69139ed4f097cc4adde60029fb7af14.setContent(html_534e55ba788f7597197caae9db499fc3);
+            
+        
+
+        marker_20c3cc2c38e7f334bf34de188465c2a9.bindPopup(popup_f69139ed4f097cc4adde60029fb7af14)
+        ;
+
+        
+    
+    
+            var marker_ee67edd31346c39cbe66e9cf3a46da96 = L.marker(
+                [55.722872, 12.527621],
+                {}
+            ).addTo(map_43861fe27b6b2a13e278b2c7dda87c99);
+        
+    
+        var popup_9f30a3fb72169f100501df1aeea26daa = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_592489913ccab99146d09a160fbbba60 = $(`<div id="html_592489913ccab99146d09a160fbbba60" style="width: 100.0%; height: 100.0%;">Grønnemose Allé 7, 2400 København NV</div>`)[0];
+                popup_9f30a3fb72169f100501df1aeea26daa.setContent(html_592489913ccab99146d09a160fbbba60);
+            
+        
+
+        marker_ee67edd31346c39cbe66e9cf3a46da96.bindPopup(popup_9f30a3fb72169f100501df1aeea26daa)
+        ;
+
+        
+    
+    
+            var marker_7e115b39675d2fa264f233b44b4ba7a2 = L.marker(
+                [55.722808, 12.523578],
+                {}
+            ).addTo(map_43861fe27b6b2a13e278b2c7dda87c99);
+        
+    
+        var popup_8b05e5f2d28d123756ab65a4529971e3 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_9060095e7dfdc7e19ddd016506646811 = $(`<div id="html_9060095e7dfdc7e19ddd016506646811" style="width: 100.0%; height: 100.0%;">Grønnemose Allé 30, 2400 København NV</div>`)[0];
+                popup_8b05e5f2d28d123756ab65a4529971e3.setContent(html_9060095e7dfdc7e19ddd016506646811);
+            
+        
+
+        marker_7e115b39675d2fa264f233b44b4ba7a2.bindPopup(popup_8b05e5f2d28d123756ab65a4529971e3)
+        ;
+
+        
+    
+    
+            var marker_3c4daf17ddc38cf1558facd3bc8aa87b = L.marker(
+                [55.722449, 12.527717],
+                {}
+            ).addTo(map_43861fe27b6b2a13e278b2c7dda87c99);
+        
+    
+        var popup_9fb419153ad420ec74720b73730d46f2 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_751f127f284916cc53cc1a65cb0f6b51 = $(`<div id="html_751f127f284916cc53cc1a65cb0f6b51" style="width: 100.0%; height: 100.0%;">Rørmosevej 8, 2400 København NV</div>`)[0];
+                popup_9fb419153ad420ec74720b73730d46f2.setContent(html_751f127f284916cc53cc1a65cb0f6b51);
+            
+        
+
+        marker_3c4daf17ddc38cf1558facd3bc8aa87b.bindPopup(popup_9fb419153ad420ec74720b73730d46f2)
+        ;
+
+        
+    
+    
+            var marker_843c051141421a3f0fe69cc7f8208e01 = L.marker(
+                [55.720987, 12.530348],
+                {}
+            ).addTo(map_43861fe27b6b2a13e278b2c7dda87c99);
+        
+    
+        var popup_55ec42c6d73bbc18ab115951ba385736 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_4a8a99f1765418d25919a0718221d607 = $(`<div id="html_4a8a99f1765418d25919a0718221d607" style="width: 100.0%; height: 100.0%;">Frederiksborgvej 165, 2400 København NV</div>`)[0];
+                popup_55ec42c6d73bbc18ab115951ba385736.setContent(html_4a8a99f1765418d25919a0718221d607);
+            
+        
+
+        marker_843c051141421a3f0fe69cc7f8208e01.bindPopup(popup_55ec42c6d73bbc18ab115951ba385736)
+        ;
+
+        
+    
+    
+            var marker_a2a5b68d2120c9a5536cff5b1b6a5985 = L.marker(
+                [55.700878, 12.543447],
+                {}
+            ).addTo(map_43861fe27b6b2a13e278b2c7dda87c99);
+        
+    
+        var popup_39e48cc4147453dd2e7e3cc6d67028e2 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_c6832d6b196788b688be89cc354ebf75 = $(`<div id="html_c6832d6b196788b688be89cc354ebf75" style="width: 100.0%; height: 100.0%;">Mimersgade 96, 2200 København N</div>`)[0];
+                popup_39e48cc4147453dd2e7e3cc6d67028e2.setContent(html_c6832d6b196788b688be89cc354ebf75);
+            
+        
+
+        marker_a2a5b68d2120c9a5536cff5b1b6a5985.bindPopup(popup_39e48cc4147453dd2e7e3cc6d67028e2)
+        ;
+
+        
+    
+    
+            var marker_ea0412345cbc6eff9265572ebcc7f907 = L.marker(
+                [55.700882, 12.540467],
+                {}
+            ).addTo(map_43861fe27b6b2a13e278b2c7dda87c99);
+        
+    
+        var popup_2b9ed43f7cc916db83703bdd897129c4 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_0637779a8980836128ce5a7bb12b6fab = $(`<div id="html_0637779a8980836128ce5a7bb12b6fab" style="width: 100.0%; height: 100.0%;">Mimersgade 109, 2200 København N</div>`)[0];
+                popup_2b9ed43f7cc916db83703bdd897129c4.setContent(html_0637779a8980836128ce5a7bb12b6fab);
+            
+        
+
+        marker_ea0412345cbc6eff9265572ebcc7f907.bindPopup(popup_2b9ed43f7cc916db83703bdd897129c4)
+        ;
+
+        
+    
+    
+            var marker_cee8c0795683c8308b13733b6891b2a3 = L.marker(
+                [55.717938, 12.53643],
+                {}
+            ).addTo(map_43861fe27b6b2a13e278b2c7dda87c99);
+        
+    
+        var popup_db91ad41a0eb33d22d64e38e68f0bf40 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_131a92ca8de3206f504ed517392089d6 = $(`<div id="html_131a92ca8de3206f504ed517392089d6" style="width: 100.0%; height: 100.0%;">Pernillevej 7, 2400 København NV</div>`)[0];
+                popup_db91ad41a0eb33d22d64e38e68f0bf40.setContent(html_131a92ca8de3206f504ed517392089d6);
+            
+        
+
+        marker_cee8c0795683c8308b13733b6891b2a3.bindPopup(popup_db91ad41a0eb33d22d64e38e68f0bf40)
+        ;
+
+        
+    
+    
+            var marker_c21e8bceab2680db31b75581f53349fd = L.marker(
+                [55.725547, 12.526221],
+                {}
+            ).addTo(map_43861fe27b6b2a13e278b2c7dda87c99);
+        
+    
+        var popup_674870b1a5eb1e40b09b47b990aa5f2c = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_fde6282c88487ff8e97c59096fa061a4 = $(`<div id="html_fde6282c88487ff8e97c59096fa061a4" style="width: 100.0%; height: 100.0%;">Firkløvervej 4, 2400 København NV</div>`)[0];
+                popup_674870b1a5eb1e40b09b47b990aa5f2c.setContent(html_fde6282c88487ff8e97c59096fa061a4);
+            
+        
+
+        marker_c21e8bceab2680db31b75581f53349fd.bindPopup(popup_674870b1a5eb1e40b09b47b990aa5f2c)
+        ;
+
+        
+    
+    
+            var marker_a2ee8dbd4b1f7d175b654aa9f0af3525 = L.marker(
+                [55.725423, 12.529809],
+                {}
+            ).addTo(map_43861fe27b6b2a13e278b2c7dda87c99);
+        
+    
+        var popup_8c76c488afa1b56f0ed894a7f3816f37 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_55bbf910089671424176315d1e15fea1 = $(`<div id="html_55bbf910089671424176315d1e15fea1" style="width: 100.0%; height: 100.0%;">Gulkløvervej 3, 2400 København NV</div>`)[0];
+                popup_8c76c488afa1b56f0ed894a7f3816f37.setContent(html_55bbf910089671424176315d1e15fea1);
+            
+        
+
+        marker_a2ee8dbd4b1f7d175b654aa9f0af3525.bindPopup(popup_8c76c488afa1b56f0ed894a7f3816f37)
+        ;
+
+        
+    
+    
+            var marker_2cfe10242dc51a4f5892fdd93c556f05 = L.marker(
+                [55.716365, 12.519349],
+                {}
+            ).addTo(map_43861fe27b6b2a13e278b2c7dda87c99);
+        
+    
+        var popup_9c8dd0b41ed53c5e14f107a8e74bbdfc = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_cd61cdbf31589b1e102e4d4e87abd1ae = $(`<div id="html_cd61cdbf31589b1e102e4d4e87abd1ae" style="width: 100.0%; height: 100.0%;">Støvnæs Allé 51, 2400 København NV</div>`)[0];
+                popup_9c8dd0b41ed53c5e14f107a8e74bbdfc.setContent(html_cd61cdbf31589b1e102e4d4e87abd1ae);
+            
+        
+
+        marker_2cfe10242dc51a4f5892fdd93c556f05.bindPopup(popup_9c8dd0b41ed53c5e14f107a8e74bbdfc)
+        ;
+
+        
+    
+    
+            var marker_95d2b68cd7da58a34b68f14025f23934 = L.marker(
+                [55.717389, 12.536169],
+                {}
+            ).addTo(map_43861fe27b6b2a13e278b2c7dda87c99);
+        
+    
+        var popup_cb36b72a6124beb67ff05889f6539ee3 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_6be39d349de3dfc2fcac9dfb72292e01 = $(`<div id="html_6be39d349de3dfc2fcac9dfb72292e01" style="width: 100.0%; height: 100.0%;">Pernillevej 1, 2400 København NV</div>`)[0];
+                popup_cb36b72a6124beb67ff05889f6539ee3.setContent(html_6be39d349de3dfc2fcac9dfb72292e01);
+            
+        
+
+        marker_95d2b68cd7da58a34b68f14025f23934.bindPopup(popup_cb36b72a6124beb67ff05889f6539ee3)
+        ;
+
+        
+    
+    
+            var marker_dba66b05644d50bd81200e9675ddf892 = L.marker(
+                [55.723313, 12.543012],
+                {}
+            ).addTo(map_43861fe27b6b2a13e278b2c7dda87c99);
+        
+    
+        var popup_d95b99e4416abbac92f4f4acca1aff4c = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_9123ddc77c604b09e4866bee5c0fab4b = $(`<div id="html_9123ddc77c604b09e4866bee5c0fab4b" style="width: 100.0%; height: 100.0%;">Lundedalsvej 9, 2400 København NV</div>`)[0];
+                popup_d95b99e4416abbac92f4f4acca1aff4c.setContent(html_9123ddc77c604b09e4866bee5c0fab4b);
+            
+        
+
+        marker_dba66b05644d50bd81200e9675ddf892.bindPopup(popup_d95b99e4416abbac92f4f4acca1aff4c)
+        ;
+
+        
+    
+    
+            var marker_40815da63a569bdc68415390e9d6b8b0 = L.marker(
+                [55.71979, 12.533376],
+                {}
+            ).addTo(map_43861fe27b6b2a13e278b2c7dda87c99);
+        
+    
+        var popup_dd575fd95506aef9757234afad39368d = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_25e0c740a310e0986cbdf0d654aa61fb = $(`<div id="html_25e0c740a310e0986cbdf0d654aa61fb" style="width: 100.0%; height: 100.0%;">Bispebjerg Parkallé 37, 2400 København NV</div>`)[0];
+                popup_dd575fd95506aef9757234afad39368d.setContent(html_25e0c740a310e0986cbdf0d654aa61fb);
+            
+        
+
+        marker_40815da63a569bdc68415390e9d6b8b0.bindPopup(popup_dd575fd95506aef9757234afad39368d)
+        ;
+
+        
+    
+    
+            var marker_18e704aa42df3d0d33c0664e6253734a = L.marker(
+                [55.723565, 12.52651],
+                {}
+            ).addTo(map_43861fe27b6b2a13e278b2c7dda87c99);
+        
+    
+        var popup_be995cfda97a370866a068b99ba55e63 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_554d39e35e22c766ed69e0abf381c8c6 = $(`<div id="html_554d39e35e22c766ed69e0abf381c8c6" style="width: 100.0%; height: 100.0%;">Højmosevej 11, 2400 København NV</div>`)[0];
+                popup_be995cfda97a370866a068b99ba55e63.setContent(html_554d39e35e22c766ed69e0abf381c8c6);
+            
+        
+
+        marker_18e704aa42df3d0d33c0664e6253734a.bindPopup(popup_be995cfda97a370866a068b99ba55e63)
+        ;
+
+        
+    
+    
+            var marker_58d60d5f4347e4e408f33be35c0ad633 = L.marker(
+                [55.719344, 12.539338],
+                {}
+            ).addTo(map_43861fe27b6b2a13e278b2c7dda87c99);
+        
+    
+        var popup_94c369964f740d2d507372c1790a2007 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_72ff28df6fd40f8d081cbfff083cfe19 = $(`<div id="html_72ff28df6fd40f8d081cbfff083cfe19" style="width: 100.0%; height: 100.0%;">Bispebjerg Parkallé 7, 2400 København NV</div>`)[0];
+                popup_94c369964f740d2d507372c1790a2007.setContent(html_72ff28df6fd40f8d081cbfff083cfe19);
+            
+        
+
+        marker_58d60d5f4347e4e408f33be35c0ad633.bindPopup(popup_94c369964f740d2d507372c1790a2007)
+        ;
+
+        
+    
+    
+            var marker_ab2405e59e473d749f313097e4654db3 = L.marker(
+                [55.685595, 12.551925],
+                {}
+            ).addTo(map_43861fe27b6b2a13e278b2c7dda87c99);
+        
+    
+        var popup_aa55c33fc9f366567405585fd58da1ac = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_ae8caa1dd5e3ceae889856b8b8d9e3c3 = $(`<div id="html_ae8caa1dd5e3ceae889856b8b8d9e3c3" style="width: 100.0%; height: 100.0%;">Rantzausgade  9, 2200 København N</div>`)[0];
+                popup_aa55c33fc9f366567405585fd58da1ac.setContent(html_ae8caa1dd5e3ceae889856b8b8d9e3c3);
+            
+        
+
+        marker_ab2405e59e473d749f313097e4654db3.bindPopup(popup_aa55c33fc9f366567405585fd58da1ac)
+        ;
+
+        
+    
+    
+            var marker_e7f49e9bf583339c0474ce482cff23e8 = L.marker(
+                [55.684825, 12.554414],
+                {}
+            ).addTo(map_43861fe27b6b2a13e278b2c7dda87c99);
+        
+    
+        var popup_dcf58f4196c87542e66c2ff773399cfc = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_17658ab83c4e5b088f605277f5246f65 = $(`<div id="html_17658ab83c4e5b088f605277f5246f65" style="width: 100.0%; height: 100.0%;">Åboulevard  36, 2200 København N</div>`)[0];
+                popup_dcf58f4196c87542e66c2ff773399cfc.setContent(html_17658ab83c4e5b088f605277f5246f65);
+            
+        
+
+        marker_e7f49e9bf583339c0474ce482cff23e8.bindPopup(popup_dcf58f4196c87542e66c2ff773399cfc)
+        ;
+
+        
+    
+    
+            var marker_56335eaec732cd8c4293bb6699310613 = L.marker(
+                [55.708167, 12.535089],
+                {}
+            ).addTo(map_43861fe27b6b2a13e278b2c7dda87c99);
+        
+    
+        var popup_32b06923b437e77a5591cf55e0f0ca74 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_e9ced5b28cdb36da43fa53f998a45e16 = $(`<div id="html_e9ced5b28cdb36da43fa53f998a45e16" style="width: 100.0%; height: 100.0%;">Bogtrykkervej  13, 2400 København NV</div>`)[0];
+                popup_32b06923b437e77a5591cf55e0f0ca74.setContent(html_e9ced5b28cdb36da43fa53f998a45e16);
+            
+        
+
+        marker_56335eaec732cd8c4293bb6699310613.bindPopup(popup_32b06923b437e77a5591cf55e0f0ca74)
+        ;
+
+        
+    
+    
+            var marker_c821b854126fda669fda577a99aa7593 = L.marker(
+                [55.698964, 12.54503],
+                {}
+            ).addTo(map_43861fe27b6b2a13e278b2c7dda87c99);
+        
+    
+        var popup_8d32e10218ad1e225545b398f977c6df = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_5ef68336cf0e8603dded360bd4290a2c = $(`<div id="html_5ef68336cf0e8603dded360bd4290a2c" style="width: 100.0%; height: 100.0%;">Dagmarsgade  45, 2200 København N</div>`)[0];
+                popup_8d32e10218ad1e225545b398f977c6df.setContent(html_5ef68336cf0e8603dded360bd4290a2c);
+            
+        
+
+        marker_c821b854126fda669fda577a99aa7593.bindPopup(popup_8d32e10218ad1e225545b398f977c6df)
+        ;
+
+        
+    
+    
+            var marker_244b881a9cd67d4ed693653b83585731 = L.marker(
+                [55.70478, 12.561011],
+                {}
+            ).addTo(map_43861fe27b6b2a13e278b2c7dda87c99);
+        
+    
+        var popup_3ee59a96302072e689f56fd9a48e43ec = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_da4fd37b9f1e395a0f8114b827a89c3f = $(`<div id="html_da4fd37b9f1e395a0f8114b827a89c3f" style="width: 100.0%; height: 100.0%;">Jagtvej 172, 2100 København Ø</div>`)[0];
+                popup_3ee59a96302072e689f56fd9a48e43ec.setContent(html_da4fd37b9f1e395a0f8114b827a89c3f);
+            
+        
+
+        marker_244b881a9cd67d4ed693653b83585731.bindPopup(popup_3ee59a96302072e689f56fd9a48e43ec)
+        ;
+
+        
+    
+    
+            var marker_f0a6390c30b85aaff4d157f10bc60822 = L.marker(
+                [55.702012, 12.528546],
+                {}
+            ).addTo(map_43861fe27b6b2a13e278b2c7dda87c99);
+        
+    
+        var popup_96608f55da750f0bdd558e1894b99963 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_0082a965e1d387731d68fb32f1616860 = $(`<div id="html_0082a965e1d387731d68fb32f1616860" style="width: 100.0%; height: 100.0%;">Ørnevej  59, 2400 København NV</div>`)[0];
+                popup_96608f55da750f0bdd558e1894b99963.setContent(html_0082a965e1d387731d68fb32f1616860);
+            
+        
+
+        marker_f0a6390c30b85aaff4d157f10bc60822.bindPopup(popup_96608f55da750f0bdd558e1894b99963)
+        ;
+
+        
+    
+    
+            var marker_2b89b0dbd95bd093a3a3b10768afc2db = L.marker(
+                [55.688121, 12.542055],
+                {}
+            ).addTo(map_43861fe27b6b2a13e278b2c7dda87c99);
+        
+    
+        var popup_8d13ffce55d21b84c1208ab90ff69c47 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a896313e88b518a737f97b91bedfa748 = $(`<div id="html_a896313e88b518a737f97b91bedfa748" style="width: 100.0%; height: 100.0%;">Jagtvej  6, 2200 København N</div>`)[0];
+                popup_8d13ffce55d21b84c1208ab90ff69c47.setContent(html_a896313e88b518a737f97b91bedfa748);
+            
+        
+
+        marker_2b89b0dbd95bd093a3a3b10768afc2db.bindPopup(popup_8d13ffce55d21b84c1208ab90ff69c47)
+        ;
+
+        
+    
+    
+            var marker_5bd00405486685d6c1bc0212aeb20456 = L.marker(
+                [55.68854, 12.54197],
+                {}
+            ).addTo(map_43861fe27b6b2a13e278b2c7dda87c99);
+        
+    
+        var popup_e562be9a80ad207e00c024641fef2397 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_418f7957fb2b8a7c7855e63537a44290 = $(`<div id="html_418f7957fb2b8a7c7855e63537a44290" style="width: 100.0%; height: 100.0%;">Jagtvej 7, 2200 København N</div>`)[0];
+                popup_e562be9a80ad207e00c024641fef2397.setContent(html_418f7957fb2b8a7c7855e63537a44290);
+            
+        
+
+        marker_5bd00405486685d6c1bc0212aeb20456.bindPopup(popup_e562be9a80ad207e00c024641fef2397)
+        ;
+
+        
+    
+    
+            var marker_5920921523b8c35ad2e03fe2c1ceebd9 = L.marker(
+                [55.695848, 12.556763],
+                {}
+            ).addTo(map_43861fe27b6b2a13e278b2c7dda87c99);
+        
+    
+        var popup_86fa0eee88751dbe3afcdc0a093457ea = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_f32626c00fb53d7dabf618eccaba794d = $(`<div id="html_f32626c00fb53d7dabf618eccaba794d" style="width: 100.0%; height: 100.0%;">Sjællandsgade 39, 2200 København N</div>`)[0];
+                popup_86fa0eee88751dbe3afcdc0a093457ea.setContent(html_f32626c00fb53d7dabf618eccaba794d);
+            
+        
+
+        marker_5920921523b8c35ad2e03fe2c1ceebd9.bindPopup(popup_86fa0eee88751dbe3afcdc0a093457ea)
+        ;
+
+        
+    
+    
+            var marker_b043f8b62038c1b69700e55982f51ecb = L.marker(
+                [55.695858, 12.553983],
+                {}
+            ).addTo(map_43861fe27b6b2a13e278b2c7dda87c99);
+        
+    
+        var popup_4a941296a789d7879e91b1dd71aa9393 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_84eb337e75039310512257e33a99481a = $(`<div id="html_84eb337e75039310512257e33a99481a" style="width: 100.0%; height: 100.0%;">Fensmarkgade 44, 2200 København N</div>`)[0];
+                popup_4a941296a789d7879e91b1dd71aa9393.setContent(html_84eb337e75039310512257e33a99481a);
+            
+        
+
+        marker_b043f8b62038c1b69700e55982f51ecb.bindPopup(popup_4a941296a789d7879e91b1dd71aa9393)
+        ;
+
+        
+    
+    
+            var marker_d407cd604fe487fbe5ec831703352ca7 = L.marker(
+                [55.708091, 12.535584],
+                {}
+            ).addTo(map_43861fe27b6b2a13e278b2c7dda87c99);
+        
+    
+        var popup_b54f89dd7df0a62850d3de2de1f4c143 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_b807a09f2751d50ae4b6b55eed54fbdb = $(`<div id="html_b807a09f2751d50ae4b6b55eed54fbdb" style="width: 100.0%; height: 100.0%;">Bogtrykkervej 12, 2400 København NV</div>`)[0];
+                popup_b54f89dd7df0a62850d3de2de1f4c143.setContent(html_b807a09f2751d50ae4b6b55eed54fbdb);
+            
+        
+
+        marker_d407cd604fe487fbe5ec831703352ca7.bindPopup(popup_b54f89dd7df0a62850d3de2de1f4c143)
+        ;
+
+        
+    
+    
+            var marker_1aba61298ecf20de31edf0715915d693 = L.marker(
+                [55.704559, 12.527458],
+                {}
+            ).addTo(map_43861fe27b6b2a13e278b2c7dda87c99);
+        
+    
+        var popup_18cbfa6bcd643670ce7d684edf50c2b9 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_00976d3b3cbb3f1379af14733467a612 = $(`<div id="html_00976d3b3cbb3f1379af14733467a612" style="width: 100.0%; height: 100.0%;">Frederikssundsvej  68F, 2400 København NV</div>`)[0];
+                popup_18cbfa6bcd643670ce7d684edf50c2b9.setContent(html_00976d3b3cbb3f1379af14733467a612);
+            
+        
+
+        marker_1aba61298ecf20de31edf0715915d693.bindPopup(popup_18cbfa6bcd643670ce7d684edf50c2b9)
+        ;
+
+        
+    
+    
+            var marker_3f03bceffd13797d9c5690875ba4de34 = L.marker(
+                [55.688575, 12.558494],
+                {}
+            ).addTo(map_43861fe27b6b2a13e278b2c7dda87c99);
+        
+    
+        var popup_d95b25b2e689b1095b6cc3c0d7f7fbe4 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_977eb76cac634fe7509d0d6e9c0cdc4e = $(`<div id="html_977eb76cac634fe7509d0d6e9c0cdc4e" style="width: 100.0%; height: 100.0%;">Nørrebrogade 39, 2200 København N</div>`)[0];
+                popup_d95b25b2e689b1095b6cc3c0d7f7fbe4.setContent(html_977eb76cac634fe7509d0d6e9c0cdc4e);
+            
+        
+
+        marker_3f03bceffd13797d9c5690875ba4de34.bindPopup(popup_d95b25b2e689b1095b6cc3c0d7f7fbe4)
+        ;
+
+        
+    
+    
+            var marker_76086c24efc32f2cd2591101b0a59c74 = L.marker(
+                [55.703467, 12.552681],
+                {}
+            ).addTo(map_43861fe27b6b2a13e278b2c7dda87c99);
+        
+    
+        var popup_5418a4e286e98146cf53f8ced363094a = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a11096a234d3a23f2961c3b677c7e54e = $(`<div id="html_a11096a234d3a23f2961c3b677c7e54e" style="width: 100.0%; height: 100.0%;">Sigurdsgade 18b, 2200 København N</div>`)[0];
+                popup_5418a4e286e98146cf53f8ced363094a.setContent(html_a11096a234d3a23f2961c3b677c7e54e);
+            
+        
+
+        marker_76086c24efc32f2cd2591101b0a59c74.bindPopup(popup_5418a4e286e98146cf53f8ced363094a)
+        ;
+
+        
+    
+    
+            var marker_e7b67944e47336839ed64068d3539297 = L.marker(
+                [55.692068, 12.55865],
+                {}
+            ).addTo(map_43861fe27b6b2a13e278b2c7dda87c99);
+        
+    
+        var popup_d3dd381e0e58e3cacbca9392cc179cf8 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_e1e74076f27e1d544ae83a9bbca7e78f = $(`<div id="html_e1e74076f27e1d544ae83a9bbca7e78f" style="width: 100.0%; height: 100.0%;">Poppelgade 7, 2200 København N</div>`)[0];
+                popup_d3dd381e0e58e3cacbca9392cc179cf8.setContent(html_e1e74076f27e1d544ae83a9bbca7e78f);
+            
+        
+
+        marker_e7b67944e47336839ed64068d3539297.bindPopup(popup_d3dd381e0e58e3cacbca9392cc179cf8)
+        ;
+
+        
+    
+</script>
+</html>
